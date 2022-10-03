@@ -1,0 +1,10 @@
+.footer {
+    height: 90px;
+    background-image: url('./img/evolution-star-wars-logo-vector-editorial-illustration-evolution-star-wars-logo-vector-format-249779394.jpg');
+    background-attachment: fixed;
+    text-align: center;
+    color: coral;
+    margin: 10px;
+    font-style: oblique;
+    font-weight: bold;
+}

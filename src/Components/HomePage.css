@@ -1,0 +1,16 @@
+body {
+    background-image: url('./img/2.jpg');
+}
+
+.container {
+    color: azure;
+    font-family: monospace;
+}
+
+.card {
+    background-color: #3A81B5;
+}
+
+.card:hover {
+    color: coral;
+}
